@@ -12,6 +12,7 @@ import org.junit.Test;
 import org.junit.rules.ExpectedException;
 import ph.alephzero.finance.cashflows.BasicCashFlows;
 
+
 public class BasicCashFlowsDiffblueTest {
     @Rule
     public ExpectedException thrown = ExpectedException.none();
